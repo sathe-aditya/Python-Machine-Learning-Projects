@@ -4,7 +4,7 @@ Some basic Python Machine Learning Projects
 
 Contents of this repo: 
 
-| Title      | Code lnnk |
+| Title      | Code link |
 | ----------- | ----------- |
 | Image Recognition      | [code here](https://github.com/nitin30kumar/Python-Machine-Learning-Projects/blob/master/Image%20Recognition.py)       |
 | K Nearest Neighbors using Sklearn   | [code here](https://github.com/nitin30kumar/Python-Machine-Learning-Projects/blob/master/K%20Nearest%20Neighbors%20using%20Sklearn.py) |
